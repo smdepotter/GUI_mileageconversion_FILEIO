@@ -1,0 +1,7 @@
+﻿Average Fleet Gas Mileage by Manufacturer
+Mfg\Year,2012,2013,2014,2015
+BMW,22.7,23.7,24.4,24.9
+Ford,21.1,22.8,22.6,23.0
+GM,20.7,21.7,22.0,22.8
+Honda,24.1,26.6,27.0,27.2
+Mercedes,19.1,21.1,22.2,22.8
